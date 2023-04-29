@@ -1,11 +1,10 @@
 body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
+  background-color: #ADD8E6;
 }
 
+
 header {
-  background-color: #blue;
+  background-color: #red;
   color: #blue;
   display: flex;
   justify-content: space-between;
