@@ -5,7 +5,7 @@ body {
 }
 
 header {
-  background-color: #333;
+  background-color: #blue;
   color: #blue;
   display: flex;
   justify-content: space-between;
@@ -48,5 +48,5 @@ li a {
 }
 
 li a:hover {
-  background-color: #sky blue;
+  background-color: #green;
 }
